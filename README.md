@@ -1,1 +1,1 @@
-File menu handler which opens a menu and gives you the option to open a file on your choseing on your computer, it then generates a page with the text and searches and find a word along with the word number beginning with one of the five vowels. A mini Vowel Dictionary
+File menu handler, opens a menu and gives you the option to open a file of your choice on your computer, it then generates a page with the text, searches and finds a word along with the word number beginning with one of the five vowels. In other words its like a mini Vowel Dictionary
